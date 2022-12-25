@@ -25,7 +25,7 @@
   //close button
   var okCclose = document.createElement("a");
   var okcCloseText = document.createTextNode(closeBtnMsg);
-  okCclose.setAttribute("href", "#");
+  okCclose.setAttribute("href", "");
   okCclose.setAttribute("id", "okClose");
   okCclose.appendChild(okcCloseText);
   okCclose.addEventListener("click", closeCookie, false);
