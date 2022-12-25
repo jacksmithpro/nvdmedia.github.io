@@ -1,7 +1,7 @@
 (function(){
   
   //Change these values
-  var msg = "We use cookies to enhance your web browsing experience. By continuing to browse the site you agree to our policy on cookie usage.";
+  var msg = "By continuing to browse the site you agree to our policy on cookie usage.";
   var closeBtnMsg = "OK";
   var privacyBtnMsg = "Privacy Policy";
   var privacyLink = "https://nvdmedia.com/privacy.html";
