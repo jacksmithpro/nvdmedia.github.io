@@ -9,7 +9,7 @@ function cookiesPolicyPrompt(){
   });
   $('#btnDeclineCookiePolicy').on('click',function(){
     //console.log('btn: decline');
-    document.location.href = "https://www.bing.com/search?q=rick+rolled";
+    document.location.href = "https://www.youtube.com/@nevadavn";
   });
 }
 
